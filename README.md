@@ -1,4 +1,4 @@
-# who-at-home.sh
+# who-at-home
 <p>
 Script which allows you to check if specified host is alive and send information about it to server.
 
